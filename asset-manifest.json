@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/recipe_search/static/css/main.aed1b400.chunk.css",
+    "main.js": "/recipe_search/static/js/main.9a0ccc7d.chunk.js",
+    "main.js.map": "/recipe_search/static/js/main.9a0ccc7d.chunk.js.map",
+    "runtime-main.js": "/recipe_search/static/js/runtime-main.d9fcdfa5.js",
+    "runtime-main.js.map": "/recipe_search/static/js/runtime-main.d9fcdfa5.js.map",
+    "static/css/2.4be38407.chunk.css": "/recipe_search/static/css/2.4be38407.chunk.css",
+    "static/js/2.9ca365c0.chunk.js": "/recipe_search/static/js/2.9ca365c0.chunk.js",
+    "static/js/2.9ca365c0.chunk.js.map": "/recipe_search/static/js/2.9ca365c0.chunk.js.map",
+    "static/js/3.a2827c9e.chunk.js": "/recipe_search/static/js/3.a2827c9e.chunk.js",
+    "static/js/3.a2827c9e.chunk.js.map": "/recipe_search/static/js/3.a2827c9e.chunk.js.map",
+    "index.html": "/recipe_search/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/recipe_search/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.aed1b400.chunk.css.map": "/recipe_search/static/css/main.aed1b400.chunk.css.map",
+    "static/js/2.9ca365c0.chunk.js.LICENSE.txt": "/recipe_search/static/js/2.9ca365c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9fcdfa5.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.9ca365c0.chunk.js",
+    "static/css/main.aed1b400.chunk.css",
+    "static/js/main.9a0ccc7d.chunk.js"
+  ]
+}
